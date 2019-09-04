@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Taller1Fibonacci</string>
+    <string name="btnCalcularFibonacci">Calcular secuencia Fibonacci</string>
+    <string name="ImagenMatemático">Portada de Baldor</string>
+    <string name="primerosFibonacci">0,1</string>
+    <string name="sugerenciaFibonacci">5</string>
+    <string name="btnFactorial">Calcular factorial</string>
+    <string name="btnPaises">Lista de países</string>
+    <string-array name="numerosFactorial">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string name="ImagenFactorial">Representación factorial</string>
+    <string name="Veces_al_inicio">0 veces, en</string>
+    <string name="hintBtnCalcular">Inserte el numero a calcular</string>
+</resources>
